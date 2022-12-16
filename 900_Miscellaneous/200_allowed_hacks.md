@@ -29,7 +29,6 @@ The following list details the hacks (from the "Mega Hack") that we allow for re
 - Percentage Only
 - RGB Icons
 - Random Icons
-- Show Hitboxes (only on death)
 - Solid Wave Trail
 - Stable Pulse
 - Start Pos Switcher (from the start)
